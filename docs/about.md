@@ -1,4 +1,4 @@
-# Et inmota non Venusque
+# About
 
 Lorem markdownum fertur coniunx, Eurotas circumfluus tendensque inerti locus
 sortes multiplicique videri victoria! Remittit viderat, tellure, deos lumen,
@@ -9,7 +9,7 @@ Incaluere subiectos his matris spectare formaene o qui Tonantis oculos *inque*.
 Ille sunt maestis atque, Priami ipso solacia quam puerum cervum orgia cum
 **caeso faciem** cui quaeque, luna.
 
-Potens summum. Pars induit: o [furiale trepidare](#et-inmota-non-venusque)
+Potens summum. Pars induit: o 
 vidisse [procorum](#et-inmota-non-venusque) ipso. Male mensae surgit viriles
 reverentia non tardis ait etiam paterque. Ne inrita algae elige vecordia inque.
 

@@ -2,9 +2,7 @@
 
 ## Intro
 
-Lorem markdownum fertur coniunx, Eurotas circumfluus tendensque inerti locus
-sortes multiplicique videri victoria! Remittit viderat, tellure, deos lumen,
-gemitum patiar agro gravius? In ut pectoraque quo. Candidus tui viri formae.
+This is the work in progress version of the (internal) lab wiki. Ideally this will be hosted on our own server.
 
 ## Contents will include
 

@@ -4,12 +4,21 @@ site_name: |
 
 nav:
   - Home: index.md
-  - About: about.md
+  #- About: about.md
   - Resources:
     - Datasets: datasets.md 
     - FAQs:
       - Accessing Servers: server_faq.md
   - Dates & Deadlines: dates.md
+  - Code: code.md
+  - Papers: papers.md
+
+plugins:
+  - search
+  - bibtex:
+      bib_file: "ref.bib"
+      citation_style: apa
+
 
 theme:
   name: material
